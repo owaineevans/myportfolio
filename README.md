@@ -8,4 +8,6 @@ Ended up putting all the animation into the layout which makes changing opacity 
 
 ## Getting Started
 
-Clone the repo - open this up in Android Studio.
+Clone the repo.
+
+Run `flutter packages get` followed by `flutter run`
